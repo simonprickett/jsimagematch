@@ -1,0 +1,60 @@
+/* 
+ * Project: Image Match Game JavaScript 
+ * Author:  Simon Prickett
+ * Date:    2014 
+ * URL:     http://github.com/simonprickett/imagematch/
+ */
+
+.gameboard {
+	width: 640px;
+	height: 640px;
+	border-width: 3px;
+	border-color: #FF0000;
+	border-style: solid;
+}
+
+.gametile {
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+	float: left;
+	border-width: 0px;
+	border-style: solid;
+	border-radius: 5px;
+}
+
+.facedown {
+	background-color: #000000;
+}
+
+.img1 {
+	background-color: #ff0000;
+}
+
+.img2 {
+	background-color: #0000ff;
+}
+
+.img3 {
+	background-color: #00ff00;	
+}
+
+.img4 {
+	background-color: #fff000;
+}
+
+.img5 {
+	background-color: #000fff;	
+}
+
+.img6 {
+	background-color: #dddddd;
+}
+
+.img7 {
+	background-color: #acbdef;
+}
+
+.img8 {
+	background-color: #eeeeee;
+}
